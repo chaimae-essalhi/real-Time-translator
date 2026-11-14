@@ -1,0 +1,29 @@
+# ---------- Secrets : ne jamais publier ----------
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# ---------- Environnements virtuels ----------
+venv/
+.venv/
+env/
+ENV/
+
+# ---------- Fichiers générés par Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---------- Éditeurs et systèmes ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Journaux ----------
+*.log

@@ -1,0 +1,8 @@
+mistralai>=1.0,<2.0
+elasticsearch>=9,<10
+pymongo
+streamlit
+pillow
+numpy
+python-dotenv
+pytesseract

@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#6C47FF"
+backgroundColor = "#F5F4FB"
+secondaryBackgroundColor = "#F3F0FF"
+textColor = "#1E1B3A"
+font = "Plus Jakarta Sans:https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
+baseRadius = "0.75rem"
+borderColor = "#E6E1F5"
+
+[theme.sidebar]
+backgroundColor = "#5A33E6"
+secondaryBackgroundColor = "#6C47FF"
+textColor = "#FFFFFF"
+
+[client]
+toolbarMode = "minimal"
